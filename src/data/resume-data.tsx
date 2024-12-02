@@ -14,7 +14,7 @@ export const RESUME_DATA = {
 	avatar: './assets/avatar.webp',
 	personalWebsiteUrl: {
 		name: 'Portfolio',
-		url: ''
+		url: 'https://gokulraj-max.github.io/main-portfolio/'
 	},
 	contact: {
 		link: {

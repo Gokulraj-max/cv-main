@@ -19,7 +19,7 @@ export const RESUME_DATA = {
 	contact: {
 		link: {
 			name: 'Other Links',
-			url: ''
+			url: 'https://gokulraj-max.github.io/other-links/'
 		},
 		email: {
 			name: 'Email',
